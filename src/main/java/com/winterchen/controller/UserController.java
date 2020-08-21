@@ -1,4 +1,4 @@
-package com.winterchen.Controller;
+package com.winterchen.controller;
 
 import com.winterchen.model.UserDomain;
 import com.winterchen.service.user.UserService;
